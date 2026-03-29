@@ -1,0 +1,6 @@
+data/*.nc
+!data/siconc_ssp245_sept_subset.nc  
+!data/sithick_ssp245_sept_subset.nc
+
+.DS_Store
+.ipynb_checkpoints/
