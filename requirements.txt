@@ -1,0 +1,9 @@
+xarray==2025.6.1
+numpy==2.3.0
+matplotlib==3.10.3
+cdo==1.6.0
+cartopy==0.24.1
+netCDF4==1.7.2
+imageio==2.9.0
+cmocean==4.0.3
+IPython==8.12.0
