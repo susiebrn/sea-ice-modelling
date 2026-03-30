@@ -2,5 +2,11 @@ data/*.nc
 !data/siconc_ssp245_sept_subset.nc  
 !data/sithick_ssp245_sept_subset.nc
 
+results/gif_frames_2.45/*.png
+
+outputs/*.nc
+
 .DS_Store
 .ipynb_checkpoints/
+__pycache__/
+*.pyc
