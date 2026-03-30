@@ -4,5 +4,5 @@ The data provided are only values for September. The source data can be download
 
 <div align="center">
   <img src="results/sea_ice_animation_2.45.gif" width="300px" alt="Antarctic Sea Ice Animation">
-  <p><em>Figure 1: Antarctic September Sea Ice Concentration from 2015 to 2100 under CMIP6 SSP2-4.5 scenario. The red line corresponds to 2015 sea ice edge, defined at 15% concentration. </em></p>
+  <p><em>Figure 1: Antarctic September Sea Ice Concentration from 2015 to 2100 under CMIP6 SSP2-4.5 scenario. The white line corresponds to 2015 sea ice edge, defined at 15% concentration. </em></p>
 </div>
